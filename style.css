@@ -7,3 +7,9 @@ body {
     width: auto;
     object-fit: cover;
 }
+
+@media (min-width:768px) and (max-width:992px) {
+    .institute-img {
+        height: 600px;
+    }
+}
